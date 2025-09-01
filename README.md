@@ -1,11 +1,11 @@
 # tetrisbash
 Cochinada de tetris que hizo el chatgpt
 
----
+***
 
 ![tetrisbash](/logo.png)
 
----
+***
 
 Para ejecutarlo basta con compilarlo:
 
@@ -25,7 +25,7 @@ Para ejecutarlo basta con compilarlo:
 
 `./tetrisbash`
 
----
+***
 
 O descarga el ejecutable precompilado y simplemente:
 
