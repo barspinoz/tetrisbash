@@ -1,5 +1,5 @@
 # tetrisbash
-Cochinada de tetris que hizo el chatgpt
+Cochinada de tetris que hizo la IA.
 
 ***
 
